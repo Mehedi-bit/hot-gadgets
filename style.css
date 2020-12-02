@@ -1,6 +1,9 @@
 .container{
     margin-bottom: 100px;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .logo{
     height: 54.5px;
     width: 118.31px;
@@ -57,4 +60,14 @@ p.card-text{
 }
 .column-2-2{
     margin-top: 16px;
+}
+.see-all-button{
+    color: #ff9d00;
+    background-color: #fff;
+    border: none;
+    font-weight: 700;
+    padding: 1px 1px;
+}
+.nav-font a{
+    color: gray;
 }
