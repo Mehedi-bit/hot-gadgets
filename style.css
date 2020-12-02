@@ -71,3 +71,6 @@ p.card-text{
 .nav-font a{
     color: gray;
 }
+.after-nav-margin{
+    margin-bottom: 0px;
+}
